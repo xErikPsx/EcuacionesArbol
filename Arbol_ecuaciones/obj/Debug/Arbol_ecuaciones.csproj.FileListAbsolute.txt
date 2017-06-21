@@ -1,0 +1,21 @@
+F:\4J\Estructura de datos\Arbol_ecuaciones\Arbol_ecuaciones\bin\Debug\Arbol_ecuaciones.exe.config
+F:\4J\Estructura de datos\Arbol_ecuaciones\Arbol_ecuaciones\bin\Debug\Arbol_ecuaciones.exe
+F:\4J\Estructura de datos\Arbol_ecuaciones\Arbol_ecuaciones\bin\Debug\Arbol_ecuaciones.pdb
+F:\4J\Estructura de datos\Arbol_ecuaciones\Arbol_ecuaciones\obj\Debug\Arbol_ecuaciones.csprojResolveAssemblyReference.cache
+F:\4J\Estructura de datos\Arbol_ecuaciones\Arbol_ecuaciones\obj\Debug\Arbol_ecuaciones.Form1.resources
+F:\4J\Estructura de datos\Arbol_ecuaciones\Arbol_ecuaciones\obj\Debug\Arbol_ecuaciones.Properties.Resources.resources
+F:\4J\Estructura de datos\Arbol_ecuaciones\Arbol_ecuaciones\obj\Debug\Arbol_ecuaciones.csproj.GenerateResource.Cache
+F:\4J\Estructura de datos\Arbol_ecuaciones\Arbol_ecuaciones\obj\Debug\Arbol_ecuaciones.exe
+F:\4J\Estructura de datos\Arbol_ecuaciones\Arbol_ecuaciones\obj\Debug\Arbol_ecuaciones.pdb
+F:\4J\Estructura de datos\Arbol_ecuaciones - copia\Arbol_ecuaciones\bin\Debug\Arbol_ecuaciones.exe.config
+F:\4J\Estructura de datos\Arbol_ecuaciones - copia\Arbol_ecuaciones\obj\Debug\Arbol_ecuaciones.exe
+F:\4J\Estructura de datos\Arbol_ecuaciones - copia\Arbol_ecuaciones\obj\Debug\Arbol_ecuaciones.pdb
+F:\4J\Estructura de datos\Arbol_ecuaciones - copia\Arbol_ecuaciones\bin\Debug\Arbol_ecuaciones.exe
+F:\4J\Estructura de datos\Arbol_ecuaciones - copia\Arbol_ecuaciones\bin\Debug\Arbol_ecuaciones.pdb
+F:\4J\Estructura de datos\Arbol_ecuaciones - copia\Arbol_ecuaciones\obj\Debug\Arbol_ecuaciones.csprojResolveAssemblyReference.cache
+F:\4J\Estructura de datos\Arbol_ecuaciones - copia\Arbol_ecuaciones\obj\Debug\Arbol_ecuaciones.Form1.resources
+F:\4J\Estructura de datos\Arbol_ecuaciones - copia\Arbol_ecuaciones\obj\Debug\Arbol_ecuaciones.Properties.Resources.resources
+F:\4J\Estructura de datos\Arbol_ecuaciones - copia\Arbol_ecuaciones\obj\Debug\Arbol_ecuaciones.csproj.GenerateResource.Cache
+C:\Users\Erik Ps\Documents\Visual Studio 2015\Projects\Arbol_ecuaciones\Arbol_ecuaciones\bin\Debug\Arbol_ecuaciones.exe.config
+C:\Users\Erik Ps\Documents\Visual Studio 2015\Projects\Arbol_ecuaciones\Arbol_ecuaciones\obj\Debug\Arbol_ecuaciones.exe
+C:\Users\Erik Ps\Documents\Visual Studio 2015\Projects\Arbol_ecuaciones\Arbol_ecuaciones\obj\Debug\Arbol_ecuaciones.pdb
