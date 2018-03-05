@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Arbol_ecuaciones
 {
-    class Nodo
+    class Nodo2
     {
 
         private string _condicion { get; }
